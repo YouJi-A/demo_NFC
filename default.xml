@@ -2,6 +2,6 @@
 <manifest>
     <remote name="demo_NFC" fetch="https://github.com/YouJi-A/" review="https://github.com/YouJi-A/"/>
     <default revision="master" remote="demo_NFC" sync-j="6" />
-    <project name="Nfc_Test" path="Nfc_Test" revision="main" />
+    <project name="Nfc_Test" path="Nfc_Test"/>
 </manifest>
  
